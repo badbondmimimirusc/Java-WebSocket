@@ -913,7 +913,7 @@
       "13.2.14": {
          "behavior": "UNIMPLEMENTED",
          "behaviorClose": "OK",
-         "duration": 1,
+         "duration": 0,
          "remoteCloseCode": 1000,
          "reportfile": "tootallnatewebsocket_case_13_2_14.json"
       },
